@@ -12,7 +12,7 @@ public class EjerciciosTema3 {
         System.out.println("Segunda parte: La cantidad de puertas del auto son = " + miCoche.puertas);
     }
 
-    //Segunda puerta:
+    //Segunda Parte:
     public static int suma(int a, int b, int c){
         return a + b + c;
     }
